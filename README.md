@@ -4,7 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-git clone 
 
 ### `git clone https://github.com/chaluatmaa/dynamic-routing.git`
 
@@ -12,7 +11,7 @@ git clone
 
 ### `npm i`
 
-### 'npm start'
+### `npm start`
 
 
 Runs the app in the development mode.\
