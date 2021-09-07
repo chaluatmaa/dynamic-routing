@@ -17,9 +17,9 @@ const User = (props) => {
 			setUsers(res.data);
 		}
 
-		setTimeout(() => {
-			fetchData();
-		}, 2000);
+		// setTimeout(() => {
+		fetchData();
+		// }, 2000);
 	}, []);
 	return (
 		<div style={{ width: "80%", margin: "0 auto" }}>
@@ -28,10 +28,10 @@ const User = (props) => {
 				style={{
 					margin: "20px",
 					marginRight: "auto",
-					border: "2px soild green",
 					borderRadius: "20px",
-					backgroundColor: "red",
-					color: "white",
+					border: "2px solid #000",
+					// backgroundColor: "red",
+					// color: "white",
 					width: "50%",
 					padding: "10px",
 				}}
@@ -42,10 +42,10 @@ const User = (props) => {
 				style={{
 					margin: "20px",
 					marginLeft: "auto",
-					border: "2px soild green",
+					border: "2px solid #000",
 					borderRadius: "20px",
-					backgroundColor: "green",
-					color: "white",
+					// backgroundColor: "green",
+					// color: "white",
 					width: "50%",
 					padding: "10px",
 				}}
@@ -60,10 +60,10 @@ const User = (props) => {
 				style={{
 					margin: "20px",
 					margint: "auto",
-					border: "2px soild green",
+					border: "2px solid #000",
 					borderRadius: "20px",
-					backgroundColor: "red",
-					color: "white",
+					// backgroundColor: "red",
+					// color: "white",
 					width: "50%",
 					padding: "10px",
 				}}
@@ -74,10 +74,10 @@ const User = (props) => {
 				style={{
 					margin: "20px",
 					marginLeft: "auto",
-					border: "2px soild green",
+					border: "2px solid #000",
 					borderRadius: "20px",
-					backgroundColor: "green",
-					color: "white",
+					// backgroundColor: "green",
+					// color: "white",
 					width: "50%",
 					padding: "10px",
 				}}
@@ -88,10 +88,10 @@ const User = (props) => {
 				style={{
 					margin: "20px",
 					marginRight: "auto",
-					border: "2px soild green",
+					border: "2px solid #000",
 					borderRadius: "20px",
-					backgroundColor: "red",
-					color: "white",
+					// backgroundColor: "red",
+					// color: "white",
 					width: "50%",
 					padding: "10px",
 				}}
