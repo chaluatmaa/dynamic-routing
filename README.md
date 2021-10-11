@@ -23,3 +23,6 @@ Follwoing image shows you the reference.
 
 ![screen-capture](https://user-images.githubusercontent.com/22262666/132328327-7843caba-6c28-4a1e-95da-22663c3e164b.gif)
 
+
+If you wish to see the te working site, you can visit the following URL
+`https://dynamic-routing.netlify.app/`
